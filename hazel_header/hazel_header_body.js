@@ -1,0 +1,15 @@
+﻿document.write('<div class="C3afd58f1d4cd4242a3b2fd42b16041c5">');
+document.write('<div class="col-12">');
+document.write('<nav class="navbar_Cb1d337b31bd34d5a88bf0f66cd20f4d7 navbar navbar-expand-lg">');
+document.write('<a class="navbar_Cb1d337b31bd34d5a88bf0f66cd20f4d7 navbar-brand" href="https://zenithcorps.github.io">Zenith Corps</a>');
+document.write('<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar_Cb1d337b31bd34d5a88bf0f66cd20f4d7">');
+document.write('<span class="navbar-toggler-icon"></span>');
+document.write('</button>');
+document.write('<div id="navbar_Cb1d337b31bd34d5a88bf0f66cd20f4d7" class="collapse navbar-collapse">');
+document.write('<ul class="navbar-nav mr-auto">');
+document.write('</ul>');
+document.write('</div>');
+document.write('</nav>');
+document.write('</div>');
+document.write('');
+document.write('</div>');
